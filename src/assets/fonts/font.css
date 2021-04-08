@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Montserrat";
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  font-style: thin;
+  font-weight: 300;
+  font-display: swap;
+  src: url("./ProximaNova-Thin.otf");
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./ProximaNova-Regular.otf");
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  font-weight: 600;
+  font-display: swap;
+  src: url("./ProximaNova-SemiBold.otf");
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  font-style: bold;
+  font-weight: 600;
+  font-display: swap;
+  src: url("./ProximaNova-Bold.otf");
+}
